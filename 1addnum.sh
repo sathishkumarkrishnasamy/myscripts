@@ -1,1 +1,1 @@
-./addnum.sh 4 65
+./addnum.sh 14 65
