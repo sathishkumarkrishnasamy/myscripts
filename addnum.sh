@@ -4,7 +4,7 @@ if [ $# -eq 2 ]; then
 A=$1
 B=$2
 else
-A=10
+A=100
 B=20
 fi
 
